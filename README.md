@@ -31,4 +31,4 @@ Siga os passos abaixo para testar o aplicativo na sua máquina:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/rest-api-playground.git](https://github.com/SEU_USUARIO/rest-api-playground.git)
+   git clone https://github.com/JPM-codes/flutter-rest-api-playground.git
